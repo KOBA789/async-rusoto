@@ -25,3 +25,8 @@ async fn main() {
   }
 }
 ```
+
+## TODO
+
+- [ ] Runtime agnostic
+- [ ] Support [rusoto_credential](https://docs.rs/rusoto_credential/)
