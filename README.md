@@ -1,6 +1,6 @@
-# async-rusoto_core
+# async-rusoto
 
-A rusoto_core alternative for async-std
+rusoto on async-std
 
 ## Usage
 
